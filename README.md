@@ -6,10 +6,11 @@ Topics:
 - Console Input/Output
 - Constants
 - Conditions (```if```-```else```)
+- Loops (```for```)
 - Static Methods
 - Objects
 - Data Structures
 - GUI Application (JavaFX)
-- Unit testing (JUnit)
+- Unit Testing (JUnit)
 
 Date of Completion: 10/14/2018
